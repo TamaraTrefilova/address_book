@@ -1,0 +1,17 @@
+.placeOne, .placeTwo {
+  color:blue;
+}
+
+
+#seattle {
+  display: none;
+}
+ #colorado {
+   display: none;
+ }
+
+ body {
+  background-image: url("../img/plain.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat, repeat;
+ }
